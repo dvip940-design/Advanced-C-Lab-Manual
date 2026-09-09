@@ -1,6 +1,7 @@
 EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
 Aim:
+
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
 Algorithm:
@@ -121,6 +122,7 @@ Thus, the program is verified successfully
 EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
 
 Aim:
+
 To write a C program to read a file name from user
 
 Algorithm:
